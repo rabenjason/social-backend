@@ -1,7 +1,6 @@
 # 🔐 Social Backend – Auth GraphQL
 
 Backend simple et sécurisé pour l’authentification utilisateur  
-(conçu pour l’apprentissage et les projets juniors).
 
 ---
 
